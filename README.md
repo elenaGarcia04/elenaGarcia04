@@ -4,6 +4,6 @@
 <img src ="https://github.com/user-attachments/assets/14215018-feb5-49ce-aac2-bc346b30205a">
 
 ## About me
-- Junior Data Scientist with a background in web development and CRM
+- Data Scientist with a background in web development and CRM
 - Passionate about analyzing data and building practical solutions
 - Experience with Python, Machine Learning, FastAPI, AWS, and data visualization
